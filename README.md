@@ -62,6 +62,16 @@ locally with classical computer vision techniques.
 
 ---
 
+## Images
+
+<img width="820" height="648" alt="image" src="https://github.com/user-attachments/assets/1656ac4c-1885-4422-807c-3bf754df5e5b" />
+
+<img width="820" height="642" alt="image" src="https://github.com/user-attachments/assets/ad6b47c1-3bc0-4869-b7b1-d1eabbbb4ff7" />
+
+<img width="822" height="648" alt="image" src="https://github.com/user-attachments/assets/14577734-8c01-4a41-9ebf-da81952e1d15" />
+
+
+
 ## What This Project Covers (Key Learnings)
 
 **Computer vision fundamentals**
