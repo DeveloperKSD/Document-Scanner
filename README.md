@@ -34,9 +34,6 @@ Make sure you have:
 - A webcam is **not required**; the project works with an image file.
 - An input document image such as `.jpg`, `.jpeg`, or `.png`.
 
-### 2. Clone / Download the Project
-
-If the project is on GitHub:
 
 ```bash
 git clone <repository-url>
