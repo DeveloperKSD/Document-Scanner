@@ -1,5 +1,5 @@
 
-# Document Scanner (Perspective Transform + Adaptive Threshold)
+# Document Scanner (Perspective Transform + Adaptive Threshold) demo
 
 A small interactive Python tool that takes a photo of a document shot at an
 angle and turns it into a flat, clean, "scanned" image — click 4 corners,
