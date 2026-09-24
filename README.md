@@ -1,4 +1,5 @@
-# Smart Document Scanner (DIP + AI)
+# DOCUMENT SCANNER
+
 
 An interactive tool that turns a skewed photo of a document into a clean, flat
 scan. It finds the page corners on its own, decides how to clean the image with
