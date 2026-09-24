@@ -24,6 +24,35 @@ classical AI, and runs locally.
 
 ---
 
+## How to Run
+
+### 1. Prerequisites
+
+Make sure you have:
+
+- Python 3.9 or newer
+- A webcam is **not required**; the project works with an image file.
+- An input document image such as `.jpg`, `.jpeg`, or `.png`.
+
+### 2. Clone / Download the Project
+
+If the project is on GitHub:
+
+```bash
+git clone <repository-url>
+
+```
+```bash
+cd <repository-folder>
+```
+
+```bash
+pip install opencv-python numpy
+```
+```bash
+python smart_document_scanner.py
+```
+
 ## Basic Flow
 
 ```
