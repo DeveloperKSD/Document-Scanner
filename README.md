@@ -54,12 +54,12 @@ classical AI, and runs locally.
 
 | Feature | Topic covered | Why it is here |
 |---|---|---|
-| Auto corner detection | DIP: edge detection, contours. AI: CSP | Removes manual clicking. Corners are variables, candidate points are domains, and angle, convexity and size rules are constraints. |
-| A* edge tracing | DIP: gradient operators. AI: informed search | Traces the page border along the strongest Sobel gradient. Cost is low on edges and high on flat areas, so A* follows the edge. |
+| Auto corner detection | IVP: edge detection, contours. AI: CSP | Removes manual clicking. Corners are variables, candidate points are domains, and angle, convexity and size rules are constraints. |
+| A* edge tracing | IVP: gradient operators. AI: informed search | Traces the page border along the strongest Sobel gradient. Cost is low on edges and high on flat areas, so A* follows the edge. |
 | Scan Advisor | AI: knowledge representation, forward chaining, expert system | Measures the image, turns numbers into facts, and fires rules to choose the pipeline. Shows which rules fired, so the decision is explainable. |
-| FFT shadow removal | DIP: Fourier transform, frequency-domain filtering | Illumination is low frequency and text is high frequency. A low-pass filter on log(image) estimates the lighting so it can be removed. |
-| K-means ink mode | DIP: colour models, colour slicing, morphology. AI: unsupervised learning | Clusters colours to find paper, ink and accent hues, then keeps stamps and signatures in colour while the text is binarized. |
-| Thresholding, CLAHE, median filter | DIP: enhancement | Adaptive/Otsu binarization, local contrast boost, and noise removal, applied when the advisor asks for them. |
+| FFT shadow removal | IVP: Fourier transform, frequency-domain filtering | Illumination is low frequency and text is high frequency. A low-pass filter on log(image) estimates the lighting so it can be removed. |
+| K-means ink mode | IVP: colour models, colour slicing, morphology. AI: unsupervised learning | Clusters colours to find paper, ink and accent hues, then keeps stamps and signatures in colour while the text is binarized. |
+| Thresholding, CLAHE, median filter | IVP: enhancement | Adaptive/Otsu binarization, local contrast boost, and noise removal, applied when the advisor asks for them. |
 
 ---
 
