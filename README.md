@@ -107,3 +107,4 @@ Run: `python smart_document_scanner.py your_image.jpg`
 - Advisor thresholds (`THRESH` in the code) are hand-tuned and may need adjusting for different cameras and lighting.
 - Auto-detection assumes the page is clearly distinct from its background.
 - Ideas: OCR with `pytesseract`, webcam mode with block-matching corner tracking, a decision-tree document classifier, multi-page export to PDF.
+- ADD CAMERA MODULE 
