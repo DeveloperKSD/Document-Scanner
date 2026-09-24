@@ -83,7 +83,7 @@ Run: `python smart_document_scanner.py your_image.jpg`
 
 ## What We Learnt
 
-**Digital Image Processing**
+**Image Video Processing**
 - A perspective transform maps a quadrilateral to a rectangle, and 4 point pairs are enough to solve it.
 - Canny and Sobel edges plus contour approximation can locate a document without any learning.
 - Working in the log domain turns lighting (multiplicative) into something a frequency-domain filter can separate from content.
