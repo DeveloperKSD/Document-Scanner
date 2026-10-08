@@ -35,6 +35,10 @@ classical AI, and runs locally.
 
 ```bash
 git clone <repository-url>
+
+```
+
+```bash
 cd <repository-folder>
 ```
 
@@ -52,6 +56,9 @@ To use a virtual environment, create and activate it first:
 
 ```bash
 python -m venv .venv
+```
+
+```bash
 .venv\Scripts\activate
 ```
 
@@ -59,6 +66,9 @@ python -m venv .venv
 
 ```bash
 python3 -m venv .venv
+```
+
+```bash
 source .venv/bin/activate
 ```
 
