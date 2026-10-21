@@ -8,6 +8,8 @@ Built by extending a basic "click 4 corners + threshold" scanner with features
 from our **Digital Image Processing** and **Artificial Intelligence** syllabi.
 
 ppt: https://canva.link/ss8mnbpb6lo2bz1
+
+
 report: https://docs.google.com/document/d/117HnWwBmD7IIG51cD-tTXcrJPKaKyRSl8kQKwq6BmoY/edit?usp=sharing
 ---
 
