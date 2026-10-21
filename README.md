@@ -62,6 +62,7 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
+
 **Linux / macOS:**
 
 ```bash
@@ -73,6 +74,11 @@ source .venv/bin/activate
 ```
 
 Then run the `pip install` command above.
+
+if opencv doesnt work in private window
+```bash
+pip install opencv-python
+```
 
 ### 4. Add an Input Image
 
@@ -92,7 +98,7 @@ You can also use any filename by passing it as a command-line argument.
 Using the default `01.jpg`:
 
 ```bash
-python smart_document_scanner.py
+python document_scanner.py
 ```
 
 Or with your own image:
