@@ -1,22 +1,3 @@
-"""
-SMART DOCUMENT SCANNER  (DIP + AI)
-==================================
-Single-window dashboard built on your original scanner.
-
-  DIP topics : edge detection (Canny/Sobel), Fourier transform + frequency
-               filtering, colour models (HSV/LAB) + colour slicing,
-               morphology, thresholding (adaptive/Otsu), CLAHE, median filter
-  AI topics  : CSP (backtracking + forward checking)  -> auto corner detection
-               A* search                              -> edge tracing
-               Expert system (forward chaining)       -> "Scan Advisor"
-               K-means clustering (unsupervised)      -> colour palette / ink mode
-
-Run:   python smart_document_scanner.py [image_path]
-Keys:  a auto corners | z undo | r reset | e A* edges | m mode | f shadow-fix
-       n denoise | h CLAHE | t advisor auto/manual | s save | q/Esc quit
-Mouse: click 4 corners (any order) or drag a corner after they are placed.
-"""
-
 import heapq
 import math
 import os
@@ -31,7 +12,7 @@ SAVE_DIR = "scanned_output"
 WIN = "Smart Document Scanner"
 MODES = ["color", "gray", "adaptive", "otsu", "ink"]
 
-# thresholds used by the Scan Advisor (tune these for your own photos)
+# thresholds we set for advisor, can chaange acc to needs
 THRESH = dict(uneven=0.20,    # background brightness spread -> shadows
               noise=5.0,      # estimated noise sigma
               contrast=45,    # grey-level std-dev
