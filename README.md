@@ -10,6 +10,8 @@ from our **Digital Image Processing** and **Artificial Intelligence** syllabi.
 ## ppt: https://canva.link/ss8mnbpb6lo2bz1
 
 ## report: [https://docs.google.com/document/d/117HnWwBmD7IIG51cD-tTXcrJPKaKyRSl8kQKwq6BmoY/edit?usp=sharing](https://docs.google.com/document/d/117HnWwBmD7IIG51cD-tTXcrJPKaKyRSl8kQKwq6BmoY/edit?usp=sharing)
+
+## case study: https://www.instagram.com/reel/Devi7dFhOGp/?utm_source=ig_web_copy_link&vrfl=NTc4MTIwNjQ2YQ==
 ---
 
 ## Tech Stack
