@@ -7,11 +7,7 @@ a small expert system, and shows every step on one dashboard.
 Built by extending a basic "click 4 corners + threshold" scanner with features
 from our **Digital Image Processing** and **Artificial Intelligence** syllabi.
 
-## ppt: https://canva.link/ss8mnbpb6lo2bz1
-
-## report: [https://docs.google.com/document/d/117HnWwBmD7IIG51cD-tTXcrJPKaKyRSl8kQKwq6BmoY/edit?usp=sharing](https://docs.google.com/document/d/117HnWwBmD7IIG51cD-tTXcrJPKaKyRSl8kQKwq6BmoY/edit?usp=sharing)
-
-## case study:https://docs.google.com/document/d/1XXGMMfOA440W9LsockTtudxMWhoy3cvSC-CqZpHsc7A/edit?usp=sharing
+## ppt:[ https://canva.link/ss8mnbpb6lo2bz1](https://canva.link/3u4aads35k3ja37)
 ---
 
 ## Tech Stack
